@@ -37,7 +37,7 @@ Projekt **Szukanie dużych liczb pierwszych Mersenne'a** to narzędzie napisane 
 
    ```bash
    git clone https://github.com/Kowalec/mersennenumbers.git
-   cd liczbypierwsze
+   cd mersennenumbers
 
 2. **Utwórz i aktywuj wirtualne środowisko (opcjonalnie):**
     ```bash
@@ -103,7 +103,7 @@ The **Searching for Large Mersenne Prime Numbers** project is a Python-based too
 
    ```bash
    git clone https://github.com/Kowalec/mersennenumbers.git
-   cd liczbypierwsze
+   cd mersennenumbers
    ```
 
 2. **Create and activate a virtual environment (optional):**
